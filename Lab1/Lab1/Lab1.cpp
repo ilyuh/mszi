@@ -75,7 +75,6 @@ int main()
 			wstring msg = strInput();
 			cout << "Enter the key (numeric): ";
 			wstring key = to_wstring( intInput() );
-			wcout << msg << 'a' << key << endl;
 			wcout << "Your encrypted message is: " << endl << enc.encrypt( msg, key ) << endl;
 			break;
 		}
