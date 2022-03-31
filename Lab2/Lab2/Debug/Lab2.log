@@ -1,0 +1,11 @@
+﻿  Lab2.cpp
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Encryptor.h(28,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Encryptor.h(32,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Encryptor.h(51,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Encryptor.h(70,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Encryptor.h(87,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Encryptor.h(89,12): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Encryptor.h(138,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Encryptor.h(157,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Lab2\Lab2.cpp(37): warning C4715: intInput: значение возвращается не при всех путях выполнения
+  Lab2.vcxproj -> C:\Users\Ilyuh\Desktop\004364 364H49\mszi\labs\Lab2\Debug\Lab2.exe
