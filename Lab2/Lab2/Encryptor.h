@@ -20,7 +20,7 @@ private:
 		num = num / ( unsigned long long )pow( 10, right );
 		return num;
 	}
-	// функция генерации гаммы (
+	// функция генерации гаммы 
 	wstring gamma( unsigned long long key, int msgLength )
 	{
 		wstring output = L"";
