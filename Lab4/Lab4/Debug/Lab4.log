@@ -1,0 +1,18 @@
+﻿  Lab4.cpp
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(129,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(182,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(201,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(214,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(220,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(222,12): warning C4018: >: несоответствие типов со знаком и без знака
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(232,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(251,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(259,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(268,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(271,36): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(271,31): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(274,22): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(375,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Encryptor.h(396,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\Stuff\004364\4 sem\mszi\labs\Lab4\Lab4\Lab4.cpp(37): warning C4715: intInput: значение возвращается не при всех путях выполнения
+  Lab4.vcxproj -> E:\Stuff\004364\4 sem\mszi\labs\Lab4\Debug\Lab4.exe
